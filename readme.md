@@ -28,13 +28,13 @@ Screenshot:
 
 
 - 🟢 **GET /data2**  
-Gibt die Inhalte der Datei `fileTest.json` im JSON-Format zurück
-Screenshot:
+Gibt die Inhalte der Datei `fileTest.json` im JSON-Format zurück  
+Screenshot:  
 ![get2](images/img_2.png)
 
 - 🟡 **POST /api/data1**  
-Empfängt JSON-Daten und gibt eine HTML-Seite als Antwort zurück
-Screenshot:
+Empfängt JSON-Daten und gibt eine HTML-Seite als Antwort zurück  
+Screenshot:  
 ![post](images/img_3.png)
 
 ---
