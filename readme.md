@@ -9,13 +9,13 @@
 ### 🧩 Middleware
 
 - ✅ **JSON-Body Parser**  
-  Middleware mit `express.json()` zur Verarbeitung von JSON-Daten in `req.body`
+Middleware mit `express.json()` zur Verarbeitung von JSON-Daten in `req.body`
 
 - ✅ **Statische Dateien**  
-  Middleware mit `express.static('public')` zum Bereitstellen von Dateien aus dem `public`-Ordner (z. B. HTML, CSS, Bilder)
+Middleware mit `express.static('public')` zum Bereitstellen von Dateien aus dem `public`-Ordner (z. B. HTML, CSS, Bilder)  
   
-  Screenshot:
- ![static --> index](images/img_12.png)
+Screenshot:  
+![static --> index](images/img_12.png)
 
 ---
 
