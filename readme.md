@@ -2,7 +2,10 @@
 ##### im Rahmen des Faches 5ABI* WMC Klewein 2425 von Jürgen Huber (5ACIF) 
 ---
 
-### ✅ Eingebaute Funktionen
+### ✅ Grundlegendes
+
+- Zum Starten des Servers: node server.js  
+- Im Browser http://localhost:3000 eingeben und dann das jeweilige Verzeichnis
 
 ---
 
@@ -14,7 +17,7 @@ Middleware mit `express.json()` zur Verarbeitung von JSON-Daten in `req.body`
 - ✅ **Statische Dateien**  
 Middleware mit `express.static('public')` zum Bereitstellen von Dateien aus dem `public`-Ordner (z. B. HTML, CSS, Bilder)  
   
-Screenshot:  
+Screenshot (index.html wird auotmatisch aufgerufen):  
 ![static --> index](images/img_12.png)
 
 ---
