@@ -13,7 +13,9 @@
 
 - ✅ **Statische Dateien**  
   Middleware mit `express.static('public')` zum Bereitstellen von Dateien aus dem `public`-Ordner (z. B. HTML, CSS, Bilder)
-  ![static --> index](images/image12.png)
+  
+  Screenshot:
+ ![static --> index](images/img_12.png)
 
 ---
 
@@ -21,15 +23,18 @@
 
 - 🟢 **GET /data1**  
   Gibt den Text **"Hallo Welt"** im Browser aus
+  Screenshot:
 ![get1](images/img_1.png)
 
 
 - 🟢 **GET /data2**  
   Gibt die Inhalte der Datei `fileTest.json` im JSON-Format zurück
+  Screenshot:
   ![get2](images/img_2.png)
 
 - 🟡 **POST /api/data1**  
   Empfängt JSON-Daten und gibt eine HTML-Seite als Antwort zurück
+  Screenshot:
   ![post](images/img_3.png)
 
 ---
