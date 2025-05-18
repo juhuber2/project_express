@@ -2,14 +2,14 @@
 ##### im Rahmen des Faches 5ABI* WMC Klewein 2425 von Jürgen Huber (5ACIF) 
 ---
 
-### ✅ Grundlegendes
-
+## ✅ Grundlegendes  
+dfgd
 - Zum Starten des Servers: node server.js  
 - Im Browser http://localhost:3000 eingeben und dann das jeweilige Verzeichnis
 
 ---
 
-### 🧩 Middleware
+## 🧩 Middleware
 
 - ✅ **JSON-Body Parser**  
 Middleware mit `express.json()` zur Verarbeitung von JSON-Daten in `req.body`
@@ -22,7 +22,7 @@ Screenshot (index.html wird auotmatisch aufgerufen):
 
 ---
 
-### 🚦 Routing
+## 🚦 Routing
 
 - 🟢 **GET /data1**  
 Gibt den Text **"Hallo Welt"** im Browser aus  
@@ -42,13 +42,13 @@ Screenshot:
 
 ---
 
-### 🚀 Serverstart
+## 🚀 Serverstart
 
 - Mit `app.listen(port, ...)` wird der Server gestartet und hört auf Anfragen unter z. B. `http://localhost:3000`
 
 ---
 
-### 📁 Projektstruktur
+## 📁 Projektstruktur
 
 ```bash
 mein-projekt/
