@@ -20,13 +20,14 @@ Screenshot (index.html wird auotmatisch aufgerufen):
 ![static --> index](images/img_12.png)
 
 - ✅ **Logging mit Morgan**  
-Logging-Middleware für Express. HTTP-Anfragen werden in der Konsole protokolliert.
+Logging-Middleware für Express. HTTP-Anfragen werden in der Konsole protokolliert.  
+Screenshot:  
 ![Morgan - Logger](images/img_4.png)  
-GET → HTTP-Methode
-/data1 → Route
-200 → Statuscode (OK)
-9.095 ms → Antwortzeit
-10 → Größe der Antwort in Bytes
+GET → HTTP-Methode  
+/data1 → Route  
+200 → Statuscode (OK)  
+9.095 ms → Antwortzeit  
+10 → Größe der Antwort in Bytes  
 
 
 ---
