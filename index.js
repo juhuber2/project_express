@@ -1,6 +1,6 @@
 const express = require('express');  //Lädt das Express-Framework
 const morgan = require('morgan');  //Lädt Morgan
-const app = express();
+const app = express();  // Funktion gibt ein neues Express-"App"-Objekt zurück.
 const port = 3000;
 const daten = require('./fileTest.json');
 

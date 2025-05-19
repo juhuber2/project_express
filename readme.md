@@ -19,7 +19,7 @@ Middleware mit `express.static('public')` zum Bereitstellen von Dateien aus dem 
 Screenshot (index.html wird auotmatisch aufgerufen):  
 ![static --> index](images/img_12.png)
 
-- ✅ **Logging**  
+- ✅ **Logging mit Morgan**  
 Logging-Middleware für Express. HTTP-Anfragen werden in der Konsole protokolliert.
 ![Morgan - Logger](images/img_4.png)
 
@@ -40,7 +40,7 @@ Screenshot:
 ![get2](images/img_2.png)
 
 - 🟡 **POST /api/data1**  
-Empfängt JSON-Daten und gibt eine HTML-Seite als Antwort zurück  
+Empfängt JSON-Daten und gibt eine HTML-Seite als Antwort zurück. Getestet mit Postman.  
 Screenshot:  
 ![post](images/img_3.png)
 
