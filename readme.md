@@ -21,7 +21,12 @@ Screenshot (index.html wird auotmatisch aufgerufen):
 
 - ✅ **Logging mit Morgan**  
 Logging-Middleware für Express. HTTP-Anfragen werden in der Konsole protokolliert.
-![Morgan - Logger](images/img_4.png)
+![Morgan - Logger](images/img_4.png)  
+GET → HTTP-Methode
+/data1 → Route
+200 → Statuscode (OK)
+9.095 ms → Antwortzeit
+10 → Größe der Antwort in Bytes
 
 
 ---
@@ -51,10 +56,6 @@ Screenshot:
 - Mit `app.listen(port, ...)` wird der Server gestartet und hört auf Anfragen unter z. B. `http://localhost:3000`
 
 ---
-
-## Logging
-
-
 
 ## 📁 Projektstruktur
 
