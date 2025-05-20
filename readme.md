@@ -61,8 +61,15 @@ Screenshot:
 ## 📁 Projektstruktur
 
 ```bash
-mein-projekt/
-├── server.js
+project_express/
+├── index.js
 ├── fileTest.json
+├── README.me
 └── public/
     ├── index.html
+└── images/
+    ├── img_1.png
+    ├── img_2.png
+    ├── img_3.png
+    ├── img_4.png
+    ├── img_12.png
