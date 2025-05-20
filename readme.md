@@ -54,7 +54,7 @@ Screenshot:
 
 ## 🚀 Serverstart
 
-- Mit `app.listen(port, ...)` wird der Server gestartet und hört auf Anfragen unter z. B. `http://localhost:3000`
+- Mit `app.listen(port, ...)` wird der Server gestartet und hört auf Anfragen unter `http://localhost:3000`
 
 ---
 
