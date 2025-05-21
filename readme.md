@@ -4,7 +4,7 @@
 
 ## ✅ Grundlegendes  
 
-- Zum Starten des Servers: node server.js  
+- Zum Starten des Servers: node index.js  
 - Im Browser http://localhost:3000 eingeben und dann das jeweilige Untverzeichnis hinzufügen
 
 ---
